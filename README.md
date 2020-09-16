@@ -1,2 +1,2 @@
-# Python_Games
-Games developed using PyGame
+# Snake_PyGame
+A classic snake game developed using PyGame
